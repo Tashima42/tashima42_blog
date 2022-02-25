@@ -1,10 +1,7 @@
 ---
 layout: home
-permalink: "/"
-title: Athena Jekyll Theme
+permalink: /
+title: Tashima42 Blog
 
 ---
-
-A simple and elegant theme for Jekyll and GitHub Pages.
-
-
+Integrations, Development, Linux, etc. Tech stuff in general
