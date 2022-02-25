@@ -1,6 +1,6 @@
 ---
 layout: category-post
-title: Welcome my blog!!!
+title: Welcome to my blog!!!
 date: '2016-08-05 20:20:56 -0400'
 categories: writing
 
